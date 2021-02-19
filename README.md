@@ -4,9 +4,17 @@
 Hello, I'm Kadriye. I am a software engineer
 I am actively looking for a job.Student we are coding a software developer training camp and bootcamp student @kodluyoruz . I have some work with JavaScript, C #, Asp.Net, Python, React and React Native.
 
-##Skills:  
+## Skills:  
 
-REACT / JS / HTML / CSS/Asp.Net,OOP,AOP,Wep API,Python
+- REACT 
+- JS 
+- HTML 
+- CSS
+- Asp.Net
+- OOP
+- AOP
+- Wep API
+- Python
 
 
 
