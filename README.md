@@ -6,7 +6,9 @@ I am actively looking for a job.Student we are coding a software developer train
 
 ## Contact:
 
-📫 <a href="mailto:kadriyecoer@gmail.com" rel="nofollow">@NurCoer</a>
+<a href="mailto:kadriyecoer@gmail.com" rel="nofollow">
+  <img align="left" alt="Nur Instagram" width="22px" src="https://png.pngtree.com/element_our/png/20181213/inbox-vector-icon-png_267453.jpg" />
+</a>
 <a href="https://www.instagram.com/kadriyenur_c/?hl=tr">
   <img align="left" alt="Nur Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
