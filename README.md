@@ -7,6 +7,9 @@ I am actively looking for a job.Student we are coding a software developer train
 ## Contact:
 
 📫 <a href="mailto:kadriyecoer@gmail.com" rel="nofollow">@NurCoer</a>
+<a href="https://www.instagram.com/kadriyenur_c/?hl=tr">
+  <img align="left" alt="Nur Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 
 ## Skills:  
