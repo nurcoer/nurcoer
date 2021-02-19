@@ -21,7 +21,7 @@ I am actively looking for a job.Student we are coding a software developer train
 
 ## Contact:
 
-📫 
+📫 <a href="mailto:kadriyecoer@gmail.com"" rel="nofollow">@NurCoer</a>
 
 
 
