@@ -13,10 +13,9 @@ I am actively looking for a job.Student we are coding a software developer train
 
 - <code><a target="_blank" rel="noopener noreferrer" href="https://c0.klipartz.com/pngpicture/7/820/gratis-png-icono-de-la-pantalla-del-ordenador-mac.png"><img height="20" src="https://c0.klipartz.com/pngpicture/7/820/gratis-png-icono-de-la-pantalla-del-ordenador-mac.png" style="max-width:100%;"></a></code> Css, Html
 
-- <code><a target="_blank" rel="noopener noreferrer" href="c0.kliphttps://i.dlpng.com/static/png/7199275_preview.png"><img height="20" src="https://i.dlpng.com/static/png/7199275_preview.png"></a></code> Css, Html
+- <code><a target="_blank" rel="noopener noreferrer" href="https://img.favpng.com/17/5/2/asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs.jpg"><img height="20" src="https://img.favpng.com/17/5/2/asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs.jpg"></a></code> Asp.Net
 
-
-- Asp.Net
+- 
 - OOP
 - AOP
 - Wep API
