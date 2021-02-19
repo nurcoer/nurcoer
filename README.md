@@ -4,14 +4,18 @@
 Hello, I'm Kadriye. I am a software engineer
 I am actively looking for a job.Student we are coding a software developer training camp and bootcamp student @kodluyoruz . I have some work with JavaScript, C #, Asp.Net, Python, React and React Native.
 
+
+
 ## Contact:
 
 <a href="mailto:kadriyecoer@gmail.com" rel="nofollow">
-  <img align="left" alt="Nur Instagram" width="22px" src="https://png.pngtree.com/element_our/png/20181213/inbox-vector-icon-png_267453.jpg" />
+  <img align="left" alt="Nur Instagram" width="22px" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" />
 </a>
 <a href="https://www.instagram.com/kadriyenur_c/?hl=tr">
   <img align="left" alt="Nur Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+
 
 
 ## Skills:  
