@@ -4,6 +4,7 @@
 Hello, I'm Kadriye. I am a software engineer
 I am actively looking for a job.Student we are coding a software developer training camp and bootcamp student @kodluyoruz . I have some work with JavaScript, C #, Asp.Net, Python, React and React Native.
 
+
 ## Skills:  
 - <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a></code>   JS
 
@@ -20,13 +21,13 @@ I am actively looking for a job.Student we are coding a software developer train
 
 - <code><a target="_blank" rel="noopener noreferrer" href="https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg"><img height="20" src="https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg"></a></code>  Python
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurcoer&layout=compact)  
+
 ## Contact:
 
 📫 <a href="mailto:kadriyecoer@gmail.com" rel="nofollow">@NurCoer</a>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurcoer&layout=compact)  
 
 ![Nur Coer's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurcoer&show_icons=true&theme=tokyonight)
 
