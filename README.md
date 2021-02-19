@@ -21,17 +21,23 @@ I am actively looking for a job.Student we are coding a software developer train
 ## Contact:
 
 <a href="mailto:kadriyecoer@gmail.com" rel="nofollow">
-  <img align="left" alt="Nur Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  <img align="left" alt="Nur Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nur-coer/">
-  <img align="left" alt="Nur Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+  <img align="left" alt="Nur Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
 <a href="https://kadriyecoer.medium.com/">
-  <img align="left" alt="Nur Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+  <img align="left" alt="Nur Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
 </a>
+<br />
+<br />
+
 <a href="https://www.instagram.com/kadriyenur_c/?hl=tr">
   <img align="left" alt="Nur Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><a href="https://www.hackerrank.com/kadriyecoer?hr_r=1">
+  <img align="left" alt="Nur Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
+
 <br />
 <br />
 
