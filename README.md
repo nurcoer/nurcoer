@@ -11,7 +11,7 @@ I am actively looking for a job.Student we are coding a software developer train
 
 - <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a></code> Git
 
-- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://cdn.pixabay.com/photo/2019/03/22/13/10/pc-4073227_960_720.png" style="max-width:100%;"></a></code>
+- <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://c0.klipartz.com/pngpicture/7/820/gratis-png-icono-de-la-pantalla-del-ordenador-mac.png" style="max-width:100%;"></a></code>
 
 - REACT 
 - JS 
