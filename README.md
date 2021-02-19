@@ -15,9 +15,7 @@ I am actively looking for a job.Student we are coding a software developer train
 
 - <code><a target="_blank" rel="noopener noreferrer" href="https://img.favpng.com/17/5/2/asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs.jpg"><img height="20" src="https://img.favpng.com/17/5/2/asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs.jpg"></a></code> Asp.Net
 
-- 
-- OOP
-- AOP
+-<code><a target="_blank" rel="noopener noreferrer" href="https://img2.pngindir.com/20180821/px/kisspng-application-programming-interface-logo-image-compu-i-can-develop-back-end-rest-api-for-your-service-f-5b7c8fe20af486.3712986915348899540449.jpg"><img height="20" src="https://img2.pngindir.com/20180821/px/kisspng-application-programming-interface-logo-image-compu-i-can-develop-back-end-rest-api-for-your-service-f-5b7c8fe20af486.3712986915348899540449.jpg"></a></code> Asp.Net
 - Wep API
 - Python
 
