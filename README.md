@@ -19,10 +19,10 @@ I am actively looking for a job.Student we are coding a software developer train
 - <code><a target="_blank" rel="noopener noreferrer" href="https://img2.pngindir.com/20180821/px/kisspng-application-programming-interface-logo-image-compu-i-can-develop-back-end-rest-api-for-your-service-f-5b7c8fe20af486.3712986915348899540449.jpg"><img height="20" src="https://img2.pngindir.com/20180821/px/kisspng-application-programming-interface-logo-image-compu-i-can-develop-back-end-rest-api-for-your-service-f-5b7c8fe20af486.3712986915348899540449.jpg"></a></code> Web API
 
 
-- <code><a target="_blank" rel="noopener noreferrer" href="https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg"><img height="20" src="https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg"></a></code>  Python
+- <code><a target="_blank" rel="noopener noreferrer" href="https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg"><img height="20" src="https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg"></a></code>  Python   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurcoer&layout=compact)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurcoer&layout=compact)  
+
 
 ## Contact:
 
