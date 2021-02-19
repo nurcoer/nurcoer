@@ -42,6 +42,6 @@ I am actively looking for a job.Student we are coding a software developer train
 <br />
 
 
-![Nur Coer's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurcoer&show_icons=true&theme=tokyonight)
+![Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurcoer&show_icons=true&theme=tokyonight)
 
 
