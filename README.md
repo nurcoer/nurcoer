@@ -4,7 +4,7 @@
 
 #### I am a software engineer 
 
-I am actively looking for a job.Student we are coding a software developer training camp and bootcamp student @kodluyoruz . I have some work with JavaScript, C #, Asp.Net, Python, React and React Native.
+Student we are coding a software developer training camp and bootcamp student @kodluyoruz . I have some work with JavaScript, C #, Asp.Net, Python, React and React Native.
 
 ## Skills:  
 
